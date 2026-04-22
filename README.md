@@ -1,4 +1,4 @@
-# 👋 Welcome to my HR Workflow Designer!
+# Welcome to my HR Workflow Designer!
 
 Hey there! Thanks for taking the time to review my submission. I've built a drag-and-drop HR Workflow Designer that allows users to visually map out HR processes like onboarding, approvals, and automated tasks. 
 
@@ -6,7 +6,7 @@ My main goal was to create something that doesn't just work under the hood, but 
 
 ---
 
-## 🏗️ The Architecture
+## The Architecture
 
 I built this as a modern Single Page Application (SPA). Here's the stack I went with and how it's organized:
 
@@ -22,7 +22,7 @@ I kept things modular. `src/components/` holds the main layout pieces (Canvas, S
 
 ---
 
-## 🚀 Getting it Running
+## Getting it Running
 
 It's super easy to spin this up locally. You'll just need Node.js installed.
 
@@ -44,7 +44,7 @@ It's super easy to spin this up locally. You'll just need Node.js installed.
 
 ---
 
-## 🧠 My Design Decisions
+## My Design Decisions
 
 When planning this out, I had to make a few key technical choices:
 
@@ -55,7 +55,7 @@ When planning this out, I had to make a few key technical choices:
 
 ---
 
-## 🎯 What I Got Done vs. What's Next
+## What I Got Done vs. What's Next
 
 ### What's working right now:
 1. An interactive drag-and-drop workflow canvas.
