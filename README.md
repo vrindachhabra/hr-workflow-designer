@@ -3,7 +3,7 @@
 Hey there! Thanks for taking the time to review my submission. I've built a drag-and-drop HR Workflow Designer that allows users to visually map out HR processes like onboarding, approvals, and automated tasks. 
 
 My main goal was to create something that doesn't just work under the hood, but also feels snappy, intuitive, and looks great to the end-user.
-Here's the deployed link to the application : https://hr-workflow-designer-mauve.vercel.app/
+Here's the live demo: https://hr-workflow-designer-mauve.vercel.app/
 
 ---
 
